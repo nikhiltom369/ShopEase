@@ -9,21 +9,14 @@
 
 ---
 
-### Home Screen
+### Product Screen
 <p align="center">
   <img src="Screenshot%20(62).png" width="250"/>
 </p>
 
----
 
-### Product Details Screen
-<p align="center">
-  <img src="Screenshot%20(60).png" width="250"/>
-</p>
 
----
-
-### Another Preview
+### Home Screen
 <p align="center">
   <img src="Screenshot%20(61).png" width="250"/>
 </p>
